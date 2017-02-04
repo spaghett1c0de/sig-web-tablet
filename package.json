@@ -1,11 +1,15 @@
 {
   "name": "sig-web-tablet",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node module to import functionality provided by the SigWebTablet library by Topaz",
   "main": "./sig-web-tablet-lib/SigWebTablet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mario Duck",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioduck/sig-web-tablet"
+  }
 }
