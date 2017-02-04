@@ -1,0 +1,11 @@
+{
+  "name": "sig-web-tablet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./sig-web-tablet-lib/SigWebTablet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario Duck",
+  "license": "ISC"
+}
